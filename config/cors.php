@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://wave-plus.xyz'],
+    'allowed_origins' => ['http://137.74.46.234'],
 
     'allowed_origins_patterns' => [],
 
